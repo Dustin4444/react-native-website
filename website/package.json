@@ -72,7 +72,7 @@
     "case-police": "^0.5.14",
     "eslint": "^8.57.1",
     "fs-extra": "^11.2.0",
-    "glob": "^11.0.0",
+    "glob": "^11.1.0",
     "prettier": "^3.4.2",
     "remark-cli": "^12.0.1",
     "typescript": "^5.7.2"
